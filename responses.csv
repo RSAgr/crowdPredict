@@ -1,0 +1,97 @@
+Timestamp,What is the most visited cafeteria for you?,What time visit the cafeteria most often?,How often do you visit the cafeteria near you?,Which day of the week do you visit the cafeteria most often?,For which kind of meals do you visit the cafeteria?,In what kind of weather do you most often visit the cafeteria,"What is the most common time gap (in hours) between your visit to the cafeteria and your next class?
+Enter only a numeric value.",What do you feel is the most busiest time of the cafeterias you visit
+24/03/2025 12:52:49,Techno,18:30:00,,Friday,Snacks,Sunny/Clear,,
+24/03/2025 12:54:13,IC,19:00:00,,Sunday,Snacks,Cloudy,,
+24/03/2025 12:56:24,IC,17:30:00,,Saturday,Snacks,Sunny/Clear,0,
+24/03/2025 12:59:00,IC,,,Saturday,Breakfast,Sunny/Clear,,
+24/03/2025 12:59:43,IC,19:00:00,,Thursday,Snacks,Cloudy,1,
+24/03/2025 13:04:45,IC,12:50:00,,Friday,Snacks,Sunny/Clear,0.167,
+24/03/2025 13:06:46,Pahaan,05:30:00,,Saturday,Breakfast,Sunny/Clear,1,
+24/03/2025 13:06:58,Techno,21:00:00,,Saturday,Snacks,Sunny/Clear,10,
+24/03/2025 13:08:14,Chhotu,,,Saturday,Dinner,Sunny/Clear,1,
+24/03/2025 13:09:24,Pahaan,09:30:00,,Sunday,Snacks,Cloudy,1,
+24/03/2025 13:09:51,IC,05:00:00,,Wednesday,Snacks,Sunny/Clear,,
+24/03/2025 13:15:25,Techno,18:00:00,,Wednesday,Snacks,Sunny/Clear,14,
+24/03/2025 13:22:15,Techno,17:30:00,,Saturday,Snacks,Sunny/Clear,,
+24/03/2025 13:26:13,Chhotu,20:09:00,,Thursday,Dinner,Sunny/Clear,12,
+24/03/2025 13:26:32,IC,12:00:00,,Monday,Breakfast,Cloudy,1,
+24/03/2025 13:26:38,Techno,22:00:00,,Saturday,Snacks,Cloudy,,
+24/03/2025 13:28:16,Techno,21:00:00,,Sunday,Snacks,Cloudy,1,
+24/03/2025 13:32:26,IC,07:00:00,,Friday,Snacks,Cloudy,,
+24/03/2025 13:33:04,IC,12:30:00,,Saturday,Snacks,Cloudy,2,
+24/03/2025 13:35:42,Chhotu,14:00:00,,Saturday,Lunch,Cloudy,45,
+24/03/2025 13:38:49,IC,18:00:00,,Friday,Snacks,Sunny/Clear,,
+24/03/2025 13:41:32,IC,11:00:00,,Tuesday,Snacks,Cloudy,1,
+24/03/2025 13:46:50,Techno,22:30:00,,Friday,Dinner,Cloudy,2,
+24/03/2025 13:52:06,Techno,22:00:00,,Tuesday,Snacks,Cloudy,,
+24/03/2025 13:54:06,Chhotu,09:00:00,,Saturday,Dinner,Sunny/Clear,1 hour,
+24/03/2025 13:55:39,IC,06:00:00,,Sunday,Snacks,Sunny/Clear,1,
+24/03/2025 13:55:45,Techno,06:00:00,,Saturday,Snacks,Sunny/Clear,3,
+24/03/2025 13:56:31,Pahaan,20:00:00,,Thursday,Dinner,Cloudy,,
+24/03/2025 13:57:45,IC,17:30:00,,Wednesday,Snacks,Sunny/Clear,,
+24/03/2025 14:15:53,IC,13:30:00,,Tuesday,Snacks,Sunny/Clear,10 minutes,
+24/03/2025 14:16:49,IC,01:30:00,,Saturday,Lunch,Sunny/Clear,,
+24/03/2025 14:20:35,IC,11:00:00,,Monday,Breakfast,Sunny/Clear,10 mins ,
+24/03/2025 14:29:22,,09:30:00,,Friday,Snacks,Cloudy,⁶,
+24/03/2025 14:37:58,Chhotu,08:30:00,,Tuesday,Dinner,Sunny/Clear,2,
+24/03/2025 15:06:28,Techno,21:00:00,,Friday,Snacks,Cloudy,12,
+24/03/2025 15:10:11,IC,,,Tuesday,Snacks,Sunny/Clear,1,
+24/03/2025 15:21:33,Techno,,,Saturday,Dinner,Cloudy,0,
+24/03/2025 15:28:36,IC,03:45:00,,Thursday,Breakfast,Rainy,50 min,
+24/03/2025 15:47:08,Techno,05:45:00,,Saturday,Snacks,Sunny/Clear,Cafeteria visit : 12:00 Class at : 2:30,
+24/03/2025 15:54:15,IC,06:00:00,,Saturday,Snacks,Sunny/Clear,1,
+24/03/2025 16:10:02,IC,05:30:00,,Tuesday,Snacks,Sunny/Clear,,
+24/03/2025 16:33:41,IC,20:45:00,,Sunday,Snacks,Rainy,167,
+24/03/2025 17:30:40,IC,18:30:00,,Saturday,Snacks,Sunny/Clear,7,
+24/03/2025 18:10:44,Chhotu,06:00:00,,Friday,Snacks,Cloudy,N/A,
+24/03/2025 18:16:10,Techno,00:00:00,,Wednesday,Lunch,Sunny/Clear,,
+24/03/2025 18:28:44,IC,15:30:00,,Thursday,Snacks,Sunny/Clear,0.5,
+24/03/2025 19:00:14,IC,05:00:00,,Monday,Breakfast,Sunny/Clear,1,
+24/03/2025 20:12:05,IC,12:00:00,,Monday,Snacks,Sunny/Clear,0.25,
+24/03/2025 21:00:37,Techno,21:00:00,,Wednesday,Snacks,Cloudy,6,
+24/03/2025 21:01:56,Chhotu,22:00:00,,Saturday,Lunch,Cloudy,2,
+24/03/2025 21:17:10,IC,18:00:00,,Saturday,Snacks,Sunny/Clear,11:45 A.M.,
+24/03/2025 21:20:20,IC,05:30:00,,,Snacks,Sunny/Clear,30 minutes ,
+24/03/2025 22:31:24,Techno,19:00:00,,Wednesday,Snacks,Cloudy,16,
+25/03/2025 00:56:05,IC,11:00:00,,Tuesday,Snacks,Sunny/Clear,2,
+25/03/2025 03:24:09,IC,17:30:00,,Sunday,Snacks,Cloudy,1,
+25/03/2025 03:52:57,Sharma,17:00:00,,Monday,Snacks,Cloudy,0.25,
+25/03/2025 03:59:01,IC,12:30:00,,Monday,Snacks,Sunny/Clear,10,
+25/03/2025 09:48:22,IC,18:00:00,,Sunday,Snacks,Cloudy,1 hrs,
+25/03/2025 11:04:34,Sharma,14:00:00,,Tuesday,Lunch,Sunny/Clear,2hours,
+25/03/2025 12:21:51,IC,13:20:00,,Tuesday,Lunch,Cloudy,half an hour or 2,
+25/03/2025 13:36:50,IC,17:00:00,,Friday,Snacks,Sunny/Clear,0,
+25/03/2025 14:08:26,IC,19:00:00,,Sunday,Snacks,Cloudy,0.5,
+25/03/2025 14:47:59,Techno,08:00:00,,Monday,Dinner,Sunny/Clear,10,
+25/03/2025 15:36:48,Chhotu,21:00:00,,Thursday,Dinner,Sunny/Clear,4,
+25/03/2025 20:14:41,IC,18:30:00,,Saturday,Snacks,Cloudy,0,
+25/03/2025 21:11:21,IC,05:30:00,,Wednesday,Snacks,Sunny/Clear,10 mins,
+25/03/2025 21:12:06,IC,01:00:00,,Friday,Lunch,Sunny/Clear,0,
+25/03/2025 21:17:11,Laxmi,,,Sunday,Snacks,Cloudy,,
+25/03/2025 21:34:51,Chhotu,,,,Lunch,Sunny/Clear,,
+25/03/2025 22:00:55,IC,10:00:00,,Monday,Snacks,Sunny/Clear,10,
+25/03/2025 22:05:15,Laxmi,12:50:00,,Monday,Breakfast,Sunny/Clear,,
+26/03/2025 11:43:33,Techno,21:00:00,Daily,Friday,Snacks,Sunny/Clear,12,17:15:00
+26/03/2025 12:06:35,Techno,21:00:00,On special occasions,Saturday,Lunch,Cloudy,0,12:00:00
+26/03/2025 16:27:54,Techno,19:30:00,Weekly,Tuesday,Snacks,Cloudy,After the classes,20:30:00
+26/03/2025 17:22:54,IC,18:00:00,Weekly,Wednesday,Snacks,Rainy,2,
+26/03/2025 22:21:28,IC,08:00:00,Weekly,Saturday,Snacks,Sunny/Clear,0.5,07:00:00
+26/03/2025 22:31:06,IC,,Daily,Monday,Snacks,Cloudy,10 -15 min,13:00:00
+26/03/2025 22:31:57,IC,11:00:00,Weekly,Friday,Snacks,Sunny/Clear,1,11:30:00
+26/03/2025 22:33:10,IC,10:00:00,Daily,Wednesday,Lunch,Sunny/Clear,1,01:00:00
+26/03/2025 22:40:52,Techno,20:30:00,Daily,Wednesday,Dinner,Cloudy,0.15,20:30:00
+26/03/2025 22:42:07,IC,06:00:00,Daily,Saturday,Snacks,Sunny/Clear,20 min.,07:00:00
+26/03/2025 22:42:48,Techno,22:30:00,Daily,Friday,Snacks,Cloudy,8,21:00:00
+26/03/2025 22:46:30,Techno,20:00:00,Daily,Saturday,Snacks,Cloudy,1,19:00:00
+26/03/2025 22:50:10,Pahaan,22:00:00,Daily,Friday,Snacks,Sunny/Clear,1hr,21:00:00
+26/03/2025 23:13:04,IC,17:30:00,Daily,Friday,Snacks,Sunny/Clear,,17:30:00
+26/03/2025 23:15:26,IC,17:30:00,Daily,Friday,Snacks,Sunny/Clear,5,17:30:00
+27/03/2025 01:14:52,IC,,Daily,Tuesday,Breakfast,Rainy,1,09:50:00
+28/03/2025 22:44:00,Techno,19:00:00,Daily,Saturday,Snacks,Sunny/Clear,4,18:30:00
+29/03/2025 22:35:20,IC,16:00:00,Daily,Tuesday,Snacks,Sunny/Clear,1,17:00:00
+29/03/2025 22:37:26,Techno,18:00:00,Daily,Friday,Snacks,Sunny/Clear,1,21:00:00
+29/03/2025 22:40:03,Techno,13:00:00,Daily,Saturday,Lunch,Sunny/Clear,1,20:00:00
+29/03/2025 23:03:21,IC,04:05:00,Daily,Thursday,Snacks,Cloudy,1,
+30/03/2025 22:44:13,IC,10:00:00,Rarely,Thursday,Breakfast,Cloudy,0.167,17:30:00
+04/04/2025 21:43:04,IC,17:30:00,Daily,Friday,Snacks,Sunny/Clear,10,18:30:00
+11/04/2025 15:49:34,IC,04:30:00,Daily,Friday,Snacks,Cloudy,1 hr,
